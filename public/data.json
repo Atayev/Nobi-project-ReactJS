@@ -1,122 +1,127 @@
-[
-    {
+{
+    "teachers":[
+        {
         "id":"1",
-        "video":["https://www.youtube.com/watch?v=Jxe8ClpkSbU"],
-        "description":"Grow your creative business in design field", 
-        "profile":["https://www.google.com/search?q=profile+photo&sxsrf=ALiCzsaomgV7PtT1dvtiyJV6AyBHj8jj5A:1665215947950&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiP6bTolND6AhVTSfEDHedSBL0Q_AUoAXoECAMQAw&biw=1366&bih=625&dpr=1#imgrc=D6gTFSDWaohX4M"],
-        "name":"Kaleigh Moore",
+        "video":["https://www.youtube-nocookie.com/embed/MB5IX-np5fE"],  
+        "description":"This could be why you're depressed or anxious", 
+        "profile":["https://oliver-andersen.se/wp-content/uploads/2018/03/cropped-Profile-Picture-Round-Color.png"],
+        "name":"Johann Hari",
         "date": "May 5-10,2022",
         "hours": "9:00 am to 12:00 pm(GMT +4)",
-        "price": "50 USD/hour"
+        "price": "50"
     },
     {
         "id":"2",
-        "video":["https://www.youtube.com/watch?v=Jxe8ClpkSbU"],
-        "description":"Grow your creative business in design field", 
-        "profile":["https://www.google.com/search?q=profile+photo&sxsrf=ALiCzsaomgV7PtT1dvtiyJV6AyBHj8jj5A:1665215947950&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiP6bTolND6AhVTSfEDHedSBL0Q_AUoAXoECAMQAw&biw=1366&bih=625&dpr=1#imgrc=D6gTFSDWaohX4M"],
-        "name":"Kaleigh Moore",
+        "video":["https://www.youtube-nocookie.com/embed/5MuIMqhT8DM"],
+        "description":"Sleep is your superpower, make sure you sleep", 
+        "profile":["https://oliver-andersen.se/wp-content/uploads/2018/03/cropped-Profile-Picture-Round-Color.png"],
+        "name":"Matt Walker",
         "date": "May 5-10,2022",
         "hours": "9:00 am to 12:00 pm(GMT +4)",
-        "price": "50 USD/hour"
+        "price": "50"
     },
     {
         "id":"3",
-        "video":["https://www.youtube.com/watch?v=Jxe8ClpkSbU"],
-        "description":"Grow your creative business in design field", 
-        "profile":["https://www.google.com/search?q=profile+photo&sxsrf=ALiCzsaomgV7PtT1dvtiyJV6AyBHj8jj5A:1665215947950&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiP6bTolND6AhVTSfEDHedSBL0Q_AUoAXoECAMQAw&biw=1366&bih=625&dpr=1#imgrc=D6gTFSDWaohX4M"],
-        "name":"Kaleigh Moore",
+        "video":["https://www.youtube-nocookie.com/embed/eIho2S0ZahI"],
+        "description":"Как говорить так, чтобы другим хотелось слушать", 
+        "profile":["https://oliver-andersen.se/wp-content/uploads/2018/03/cropped-Profile-Picture-Round-Color.png"],
+        "name":"Джулиан Трежер",
         "date": "May 5-10,2022",
         "hours": "9:00 am to 12:00 pm(GMT +4)",
         "price": "50 USD/hour"
     },
     {
         "id":"4",
-        "video":["https://www.youtube.com/watch?v=Jxe8ClpkSbU"],
-        "description":"Grow your creative business in design field", 
-        "profile":["https://www.google.com/search?q=profile+photo&sxsrf=ALiCzsaomgV7PtT1dvtiyJV6AyBHj8jj5A:1665215947950&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiP6bTolND6AhVTSfEDHedSBL0Q_AUoAXoECAMQAw&biw=1366&bih=625&dpr=1#imgrc=D6gTFSDWaohX4M"],
-        "name":"Kaleigh Moore",
+        "video":["https://www.youtube-nocookie.com/embed/Hu4Yvq-g7_Y"],
+        "description":"How to Get Your Brain to Focus and stay calm", 
+        "profile":["https://oliver-andersen.se/wp-content/uploads/2018/03/cropped-Profile-Picture-Round-Color.png"],
+        "name":"Chris Bailey",
         "date": "May 5-10,2022",
         "hours": "9:00 am to 12:00 pm(GMT +4)",
-        "price": "50 USD/hour"
+        "price": "60 USD/hour"
     },
     {
         "id":"5",
-        "video":["https://www.youtube.com/watch?v=Jxe8ClpkSbU"],
-        "description":"Grow your creative business in design field", 
-        "profile":["https://www.google.com/search?q=profile+photo&sxsrf=ALiCzsaomgV7PtT1dvtiyJV6AyBHj8jj5A:1665215947950&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiP6bTolND6AhVTSfEDHedSBL0Q_AUoAXoECAMQAw&biw=1366&bih=625&dpr=1#imgrc=D6gTFSDWaohX4M"],
-        "name":"Kaleigh Moore",
+        "video":["https://www.youtube-nocookie.com/embed/ON4iy8hq2hM"],
+        "description":"The difference between healthy and unhealthy love", 
+        "profile":["https://llhealthyfit.files.wordpress.com/2016/07/profile-picture-june-2015-corner-rounded.png"],
+        "name":"Katie Hood",
         "date": "May 5-10,2022",
         "hours": "9:00 am to 12:00 pm(GMT +4)",
         "price": "50 USD/hour"
     },
     {
         "id":"6",
-        "video":["https://www.youtube.com/watch?v=Jxe8ClpkSbU"],
-        "description":"Grow your creative business in design field", 
-        "profile":["https://www.google.com/search?q=profile+photo&sxsrf=ALiCzsaomgV7PtT1dvtiyJV6AyBHj8jj5A:1665215947950&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiP6bTolND6AhVTSfEDHedSBL0Q_AUoAXoECAMQAw&biw=1366&bih=625&dpr=1#imgrc=D6gTFSDWaohX4M"],
-        "name":"Kaleigh Moore",
+        "video":["https://www.youtube-nocookie.com/embed/5MgBikgcWnY"],
+        "description":"The first 20 hours -- how to learn anything", 
+        "profile":["https://oliver-andersen.se/wp-content/uploads/2018/03/cropped-Profile-Picture-Round-Color.png"],
+        "name":"Josh Kaufman",
         "date": "May 5-10,2022",
         "hours": "9:00 am to 12:00 pm(GMT +4)",
         "price": "50 USD/hour"
     },
     {
         "id":"7",
-        "video":["https://www.youtube.com/watch?v=Jxe8ClpkSbU"],
+        "video":["https://www.youtube-nocookie.com/embed/arj7oStGLkU"],
+        "description":"Inside the mind of a master procrastinator", 
+        "profile":["https://oliver-andersen.se/wp-content/uploads/2018/03/cropped-Profile-Picture-Round-Color.png"],
+        "name":"Tim Urban",
+        "date": "May 5-10,2022",
+        "hours": "9:00 am to 12:00 pm(GMT +4)",
+        "price": "50 USD/hour"
+    },
+    {
+        "id":"8",
+        "video":["https://www.youtube-nocookie.com/embed/0sYguTPLpHE"],
         "description":"Grow your creative business in design field", 
-        "profile":["https://www.google.com/search?q=profile+photo&sxsrf=ALiCzsaomgV7PtT1dvtiyJV6AyBHj8jj5A:1665215947950&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiP6bTolND6AhVTSfEDHedSBL0Q_AUoAXoECAMQAw&biw=1366&bih=625&dpr=1#imgrc=D6gTFSDWaohX4M"],
+        "profile":["https://llhealthyfit.files.wordpress.com/2016/07/profile-picture-june-2015-corner-rounded.png"],
         "name":"Kaleigh Moore",
         "date": "May 5-10,2022",
         "hours": "9:00 am to 12:00 pm(GMT +4)",
         "price": "50 USD/hour"
     },
     {
-        "id":"1",
-        "video":["https://www.youtube.com/watch?v=Jxe8ClpkSbU"],
-        "description":"Grow your creative business in design field", 
-        "profile":["https://www.google.com/search?q=profile+photo&sxsrf=ALiCzsaomgV7PtT1dvtiyJV6AyBHj8jj5A:1665215947950&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiP6bTolND6AhVTSfEDHedSBL0Q_AUoAXoECAMQAw&biw=1366&bih=625&dpr=1#imgrc=D6gTFSDWaohX4M"],
-        "name":"Kaleigh Moore",
+        "id":"9",
+        "video":["https://www.youtube-nocookie.com/embed/Hfl3Yh7fS4g"],
+        "description":"The Real Causes of Depression and how depression works", 
+        "profile":["https://oliver-andersen.se/wp-content/uploads/2018/03/cropped-Profile-Picture-Round-Color.png"],
+        "name":"Johann Hari",
+        "date": "May 5-10,2022",
+        "hours": "9:00 am to 12:00 pm(GMT +4)",
+        "price": "80 USD/hour"
+    },
+    {
+        "id":"10",
+        "video":["https://www.youtube.com/embed/PY9DcIMGxMs"],
+        "description":"Everything you think you know about addiction is wrong", 
+        "profile":["https://oliver-andersen.se/wp-content/uploads/2018/03/cropped-Profile-Picture-Round-Color.png"],
+        "name":"Johann Hari",
+        "date": "May 5-10,2022",
+        "hours": "9:00 am to 12:00 pm(GMT +4)",
+        "price": "80 USD/hour"
+    },
+    {
+        "id":"11",
+        "video":["https://www.youtube.com/embed/95ovIJ3dsNk"],
+        "description":"How childhood trauma affects health across a lifetime", 
+        "profile":["https://llhealthyfit.files.wordpress.com/2016/07/profile-picture-june-2015-corner-rounded.png"],
+        "name":"Nadine Burke Harris",
         "date": "May 5-10,2022",
         "hours": "9:00 am to 12:00 pm(GMT +4)",
         "price": "50 USD/hour"
     },
     {
-        "id":"1",
-        "video":["https://www.youtube.com/watch?v=Jxe8ClpkSbU"],
-        "description":"Grow your creative business in design field", 
-        "profile":["https://www.google.com/search?q=profile+photo&sxsrf=ALiCzsaomgV7PtT1dvtiyJV6AyBHj8jj5A:1665215947950&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiP6bTolND6AhVTSfEDHedSBL0Q_AUoAXoECAMQAw&biw=1366&bih=625&dpr=1#imgrc=D6gTFSDWaohX4M"],
-        "name":"Kaleigh Moore",
-        "date": "May 5-10,2022",
-        "hours": "9:00 am to 12:00 pm(GMT +4)",
-        "price": "50 USD/hour"
-    },
-    {
-        "id":"1",
-        "video":["https://www.youtube.com/watch?v=Jxe8ClpkSbU"],
-        "description":"Grow your creative business in design field", 
-        "profile":["https://www.google.com/search?q=profile+photo&sxsrf=ALiCzsaomgV7PtT1dvtiyJV6AyBHj8jj5A:1665215947950&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiP6bTolND6AhVTSfEDHedSBL0Q_AUoAXoECAMQAw&biw=1366&bih=625&dpr=1#imgrc=D6gTFSDWaohX4M"],
-        "name":"Kaleigh Moore",
-        "date": "May 5-10,2022",
-        "hours": "9:00 am to 12:00 pm(GMT +4)",
-        "price": "50 USD/hour"
-    },
-    {
-        "id":"1",
-        "video":["https://www.youtube.com/watch?v=Jxe8ClpkSbU"],
-        "description":"Grow your creative business in design field", 
-        "profile":["https://www.google.com/search?q=profile+photo&sxsrf=ALiCzsaomgV7PtT1dvtiyJV6AyBHj8jj5A:1665215947950&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiP6bTolND6AhVTSfEDHedSBL0Q_AUoAXoECAMQAw&biw=1366&bih=625&dpr=1#imgrc=D6gTFSDWaohX4M"],
-        "name":"Kaleigh Moore",
-        "date": "May 5-10,2022",
-        "hours": "9:00 am to 12:00 pm(GMT +4)",
-        "price": "50 USD/hour"
-    },
-    {
-        "id":"1",
-        "video":["https://www.youtube.com/watch?v=Jxe8ClpkSbU"],
-        "description":"Grow your creative business in design field", 
-        "profile":["https://www.google.com/search?q=profile+photo&sxsrf=ALiCzsaomgV7PtT1dvtiyJV6AyBHj8jj5A:1665215947950&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiP6bTolND6AhVTSfEDHedSBL0Q_AUoAXoECAMQAw&biw=1366&bih=625&dpr=1#imgrc=D6gTFSDWaohX4M"],
-        "name":"Kaleigh Moore",
+        "id":"12",
+        "video":["https://www.youtube.com/embed/xp0O2vi8DX4"],
+        "description":"How to motivate yourself to change your behavior", 
+        "profile":["https://llhealthyfit.files.wordpress.com/2016/07/profile-picture-june-2015-corner-rounded.png"],
+        "name":"Tali Sharot",
         "date": "May 5-10,2022",
         "hours": "9:00 am to 12:00 pm(GMT +4)",
         "price": "50 USD/hour"
     }
-]
+  ],
+    "menu": ["All", "Programming", "Design", "Startup", "Business",  "Communication" ,"Farming" , "More"]
+    
+
+}
