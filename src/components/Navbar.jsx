@@ -8,16 +8,13 @@ function Navbar() {
 
   return (
    
-    <div className="bg-white py-3 flex justify-center px-2 py-3  sm:px-4 py-2.5 rounded">
-    <div className='container flex justify-between'>
-    <div className="ml-8 text-lg text-black flex ">
+    <div className="bg-white py-3 flex justify-center border px-2 py-3  sm:px-4 py-2.5 rounded">
+    <div className='container flex flex-col  md:justify-between md:flex-row '>
+    <div className="ml-8 text-lg text-black">
     <div className='flex'>
           <img src={logo} alt="" className='logo my-1'/>
 `         <p className='logoTitle font-bold px-2 mt-1'>Nobi</p>
           </div>
-         
-          
-       
     </div>
     <div class="flex order-2 md:order-1">
     <button type="button" data-collapse-toggle="navbar-search" aria-controls="navbar-search" aria-expanded="false" class="md:hidden text-gray-500 focus:outline-none focus:ring-4 focus:ring-gray-200 rounded-lg text-sm p-2.5" >
@@ -28,7 +25,12 @@ function Navbar() {
                   <span class="sr-only">Open menu</span>
                   <GiHamburgerMenu className='w-6 h-6'/>
           </button>
-         
+          <div className={show ? 'w-auto  mx-3' : 'hidden w-full'}>
+          <ul className='flex-col bg-gray-50 text-sm md:flex-row  md:mt-2 md:text-sm md:font-medium md:border-0 md:bg-white'>
+            <li className='font-medium md:px-2'>Features</li>
+            <li className='font-medium'>Support</li>
+        </ul>
+          </div>
     <div class="hidden relative md:block">
       <div class="flex absolute inset-y-0 left-0 items-center pl-3 pointer-events-none">
         <AiOutlineSearch className='mb-2'/>
@@ -38,12 +40,7 @@ function Navbar() {
     </div>
     
         </div>
-        <div className={show ? 'block w-auto' : 'hidden w-full'}>
-          <ul className='flex-col bg-gray-50 text-sm md:flex-row  md:mt-2 md:text-sm md:font-medium md:border-0 md:bg-white'>
-            <li className='font-medium md:px-2'>Features</li>
-            <li className='font-medium'>Support</li>
-        </ul>
-          </div>
+        
     <div className='order-1 md:order-2'>
         <button className='btn px-2 font-medium text-sm px-5 py-2.5 mr-2 mb-2'>Login</button>
         <button className='bg-btn text-white focus:ring-4 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2'>Sign up</button>
