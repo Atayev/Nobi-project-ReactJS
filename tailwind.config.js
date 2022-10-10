@@ -8,7 +8,8 @@ module.exports = {
       sm: ['14px', '20px'],
       base: ['16px', '24px'],
       lg: ['20px', '28px'],
-      x:['30px','36px'],
+      x: ['30px', '36px'],
+      f:['39px','48px'],
       xl: ['48px', '48px'],
     }
   },

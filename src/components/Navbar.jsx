@@ -1,15 +1,29 @@
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import { AiOutlineSearch } from 'react-icons/ai'
 import { GiHamburgerMenu } from 'react-icons/gi'
+import {BiLogOut} from 'react-icons/bi'
 import logo from '../assets/img/logo.png'
+import { useNavigate, Link } from 'react-router-dom'
+import toast from 'react-hot-toast'
 function Navbar() {
   const [show,setShow] = useState(false)
+  const [isAuth,setIsAuth] = useState()
+  const navigate = useNavigate()
 
-
+  useEffect(() => {
+    const data = JSON.parse(localStorage.getItem('user-info'))
+    if(data) setIsAuth(data)
+  }, [])
+  
+  const logout = () => {
+    localStorage.clear()
+    window.location.reload()
+    toast.success('See you soon ... ')
+  }
   return (
    
-    <div className="bg-white py-3 flex justify-center border px-2 py-3  sm:px-4 py-2.5 rounded">
-    <div className='container flex flex-col  md:justify-between md:flex-row '>
+    <div className="bg-white py-3 flex justify-center border  py-3  sm:px-4 py-2.5 rounded">
+    <div className='container flex  justify-center md:justify-around  md:flex-row '>
     <div className="ml-8 text-lg text-black">
     <div className='flex'>
           <img src={logo} alt="" className='logo my-1'/>
@@ -41,10 +55,15 @@ function Navbar() {
     
         </div>
         
-    <div className='order-1 md:order-2'>
-        <button className='btn px-2 font-medium text-sm px-5 py-2.5 mr-2 mb-2'>Login</button>
-        <button className='bg-btn text-white focus:ring-4 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2'>Sign up</button>
-    </div>
+    {!isAuth ? (<div className='order-1 md:order-2'>
+        <Link to={'/signin'} className='btn px-2 font-medium text-sm px-5 py-2.5 mr-2 mb-2'>Login</Link>
+          <button className='bg-btn text-white focus:ring-4 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2' onClick={() => navigate('/signup')}>Sign up</button>
+        </div>) : (
+            <div className='flex'>
+              <p className='text-sm'>Welcome back <span className='font-medium text-base'>{isAuth.name}  {isAuth.surname}</span></p>
+              <span className='mx-3 flex cursor-pointer' onClick={logout}><BiLogOut className='w-5 h-5 mx-1'/> Logout</span>
+            </div>
+    )}
     </div>
 
 </div>
