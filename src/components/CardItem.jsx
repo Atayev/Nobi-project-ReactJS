@@ -7,7 +7,7 @@ function CardItem({id,video,description,name,profile,date,hours,price}) {
 
   return (
     <div className="w-1/4 bg-white rounded-lg border border-gray-200 shadow-md mx-5 my-3">
-        <iframe src={video} id={id} title='youtubevidoe'  className='w-full h-64 rounded-lg'/>
+        <embed src={video} id={id} title='youtubevidoe'   className='w-full h-64 rounded-lg'/>
     <div className="p-3">
               <h5 className="mb-2 text-lg font-bold text-gray-900 ">{ description }</h5>
               <div className='flex my-3'>
