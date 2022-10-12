@@ -41,7 +41,7 @@ function Signup() {
                   <input type="email"  value={email} onChange={e=>setEmail(e.target.value)} placeholder='Email'className='w-80 rounded-md my-3 px-5 py-2.5 bg-gray-200 text-sm' required/>
                   <input type="password"  value={password} onChange={e=>setPassword(e.target.value)} placeholder='Password'className='w-80 rounded-md my-3 px-5 py-2.5 bg-gray-200 text-sm' required/>
                   <span className='text-end text-cyan-600 text-sm my-3 cursor-pointer'> Forgot password? </span>
-                  <input type='submit'  value='Sign up' className='w-80 rounded-md mb-4  px-5 py-2.5 bg-btn text-white text-sm cursor-pointer'/>
+                  <input type='submit' value='Sign up'  className='w-80 rounded-md mb-4  px-5 py-2.5 bg-btn text-white text-sm cursor-pointer'/>
               </form>
           </div>
       </div>
