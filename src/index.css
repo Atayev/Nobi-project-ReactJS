@@ -39,3 +39,9 @@ body {
   width: 27px;
   height: 28px;
 }
+.ytp-gradient-top {
+  display: none!important;
+}
+.ytp-title-text {
+  display: none!important;
+}

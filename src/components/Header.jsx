@@ -13,8 +13,6 @@ function Header() {
       <Navbar />
       <HeaderMain />
       <SecondNav />
-      <All />
-      <Footer />
       </div>
 
   )
