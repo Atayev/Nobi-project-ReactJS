@@ -1,5 +1,6 @@
 import React,{ useEffect, useState } from 'react'
 import CardItem from './CardItem'
+import SecondNav from './SecondNav'
 
 function All() {
     const [teach, setTeach] = useState()

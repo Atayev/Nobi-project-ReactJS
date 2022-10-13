@@ -12,7 +12,6 @@ function Header() {
       <div>
       <Navbar />
       <HeaderMain />
-      <SecondNav />
       </div>
 
   )

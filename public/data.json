@@ -3,7 +3,7 @@
     {
       "id": "1",
       "video": [
-        "https://www.youtube.com/embed/MB5IX-np5fE?controls=0"
+        "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
       ],
       "description": "This could be why you're depressed or anxious",
       "profile": [
@@ -12,12 +12,14 @@
       "name": "Johann Hari",
       "date": "May 5-10,2022",
       "hours": "9:00 am to 12:00 pm(GMT +4)",
-      "price": "50"
+      "price": "50",
+      "category":"Programming"
+      
     },
     {
       "id": "2",
       "video": [
-        "https://www.youtube.com/embed/5MuIMqhT8DM?controls=0"
+        "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80"
       ],
       "description": "Sleep is your superpower, make sure you sleep",
       "profile": [
@@ -26,12 +28,13 @@
       "name": "Matt Walker",
       "date": "May 5-10,2022",
       "hours": "9:00 am to 12:00 pm(GMT +4)",
-      "price": "50"
+      "price": "50",
+      "category":"Design"
     },
     {
       "id": "3",
       "video": [
-        "https://www.youtube.com/embed/eIho2S0ZahI?controls=0"
+        "https://images.unsplash.com/photo-1513258496099-48168024aec0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
       ],
       "description": "Как говорить так, чтобы другим хотелось слушать",
       "profile": [
@@ -40,12 +43,14 @@
       "name": "Джулиан Трежер",
       "date": "May 5-10,2022",
       "hours": "9:00 am to 12:00 pm(GMT +4)",
-      "price": "50 USD/hour"
+      "price": "50 USD/hour",
+      "category":"Programming"
+
     },
     {
       "id": "4",
       "video": [
-        "https://www.youtube.com/embed/Hu4Yvq-g7_Y?controls=0"
+        "https://images.unsplash.com/photo-1509062522246-3755977927d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=932&q=80"
       ],
       "description": "How to Get Your Brain to Focus and stay calm",
       "profile": [
@@ -54,12 +59,14 @@
       "name": "Chris Bailey",
       "date": "May 5-10,2022",
       "hours": "9:00 am to 12:00 pm(GMT +4)",
-      "price": "60 USD/hour"
+      "price": "60 USD/hour",
+      "category":"Startup"
+
     },
     {
       "id": "5",
       "video": [
-        "https://www.youtube.com/embed/ON4iy8hq2hM?controls=0"
+        "https://images.unsplash.com/photo-1558541966-d1071f7329bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1033&q=80"
       ],
       "description": "The difference between healthy and unhealthy love",
       "profile": [
@@ -68,12 +75,14 @@
       "name": "Katie Hood",
       "date": "May 5-10,2022",
       "hours": "9:00 am to 12:00 pm(GMT +4)",
-      "price": "50 USD/hour"
+      "price": "50 USD/hour",
+      "category":"Business"
+
     },
     {
       "id": "6",
       "video": [
-        "https://www.youtube.com/embed/5MgBikgcWnY?controls=0"
+        "https://images.unsplash.com/photo-1491439996916-067ed99cba60?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
       ],
       "description": "The first 20 hours -- how to learn anything",
       "profile": [
@@ -82,12 +91,14 @@
       "name": "Josh Kaufman",
       "date": "May 5-10,2022",
       "hours": "9:00 am to 12:00 pm(GMT +4)",
-      "price": "50 USD/hour"
+      "price": "50 USD/hour",
+      "category":"Communication"
+
     },
     {
       "id": "7",
       "video": [
-        "https://www.youtube.com/embed/arj7oStGLkU?controls=0"
+        "https://plus.unsplash.com/premium_photo-1663021826744-ad14835324f3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
       ],
       "description": "Inside the mind of a master procrastinator",
       "profile": [
@@ -96,12 +107,14 @@
       "name": "Tim Urban",
       "date": "May 5-10,2022",
       "hours": "9:00 am to 12:00 pm(GMT +4)",
-      "price": "50 USD/hour"
+      "price": "50 USD/hour",
+      "category":"Farming"
+
     },
     {
       "id": "8",
       "video": [
-        "https://www.youtube.com/embed/0sYguTPLpHE?controls=0"
+        "https://images.unsplash.com/photo-1566827886072-417be1953f36?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
       ],
       "description": "Grow your creative business in design field",
       "profile": [
@@ -110,12 +123,14 @@
       "name": "Kaleigh Moore",
       "date": "May 5-10,2022",
       "hours": "9:00 am to 12:00 pm(GMT +4)",
-      "price": "50 USD/hour"
+      "price": "50 USD/hour",
+      "category":"Startup"
+
     },
     {
       "id": "9",
       "video": [
-        "https://www.youtube.com/embed/Hfl3Yh7fS4g?controls=0"
+        "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
       ],
       "description": "The Real Causes of Depression and how depression works",
       "profile": [
@@ -124,12 +139,14 @@
       "name": "Johann Hari",
       "date": "May 5-10,2022",
       "hours": "9:00 am to 12:00 pm(GMT +4)",
-      "price": "80 USD/hour"
+      "price": "80 USD/hour",
+      "category":"Business"
+
     },
     {
       "id": "10",
       "video": [
-        "https://www.youtube.com/embed/PY9DcIMGxMs?controls=0"
+        "https://images.unsplash.com/photo-1526253038957-bce54e05968e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
       ],
       "description": "Everything you think you know about addiction is wrong",
       "profile": [
@@ -138,12 +155,14 @@
       "name": "Johann Hari",
       "date": "May 5-10,2022",
       "hours": "9:00 am to 12:00 pm(GMT +4)",
-      "price": "80 USD/hour"
+      "price": "80 USD/hour",
+      "category":"Programming"
+
     },
     {
       "id": "11",
       "video": [
-        "https://www.youtube.com/embed/95ovIJ3dsNk?controls=0"
+        "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=873&q=80"
       ],
       "description": "How childhood trauma affects health across a lifetime",
       "profile": [
@@ -152,12 +171,14 @@
       "name": "Nadine Burke Harris",
       "date": "May 5-10,2022",
       "hours": "9:00 am to 12:00 pm(GMT +4)",
-      "price": "50 USD/hour"
+      "price": "50 USD/hour",
+      "category":"Design"
+
     },
     {
       "id": "12",
       "video": [
-        "https://www.youtube.com/embed/xp0O2vi8DX4?controls=0"
+        "https://images.unsplash.com/photo-1528605105345-5344ea20e269?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
       ],
       "description": "How to motivate yourself to change your behavior",
       "profile": [
@@ -166,7 +187,9 @@
       "name": "Tali Sharot",
       "date": "May 5-10,2022",
       "hours": "9:00 am to 12:00 pm(GMT +4)",
-      "price": "50 USD/hour"
+      "price": "50 USD/hour",
+      "category":"Business"
+
     }
   ],
   "menu": [
@@ -187,114 +210,12 @@
   ],
   "users": [
     {
+      "photo":"https://www.pngall.com/wp-content/uploads/5/Profile-PNG-Images.png",
       "name": "Ibrahim",
       "surname": "Atayev",
       "email": "ibrahim@mail.com",
       "password": "ibrahim",
       "id": 1
-    },
-    {
-      "name": "adsf",
-      "surname": "fdsaf",
-      "email": "sdff@mail.com",
-      "password": "32242342",
-      "id": 2
-    },
-    {
-      "name": "cxzvxcv",
-      "surname": "zxcvzxcv",
-      "email": "zvxcvzxcvim@mail.com",
-      "password": "ibrahim",
-      "id": 3
-    },
-    {
-      "email": "ibrahim@mail.com",
-      "password": "ibrahim",
-      "id": 4
-    },
-    {
-      "name": "acvxcv",
-      "surname": "dsafgvcbc",
-      "email": "fdbadfgim@mail.com",
-      "password": "cxvzxgfgdag",
-      "id": 5
-    },
-    {
-      "name": "dafs",
-      "surname": "czvxvvdasfdsa",
-      "email": "ibrahim@mail.com",
-      "password": "fasdfe",
-      "id": 6
-    },
-    {
-      "name": "cxvfag",
-      "surname": "fgadfvzcxv",
-      "email": "sfasdfxb@fdsaf",
-      "password": "efweadf",
-      "id": 7
-    },
-    {
-      "name": "fdsafsd",
-      "surname": "cxvzcxv",
-      "email": "dfasdfm@mail.com",
-      "password": "afsdfa",
-      "id": 8
-    },
-    {
-      "name": "dsfa",
-      "surname": "cxzv",
-      "email": "fdasfim@mail.com",
-      "password": "fm",
-      "id": 9
-    },
-    {
-      "name": "fadscxcv",
-      "surname": "dsafvxcv",
-      "email": "dfasdxcim@mail.com",
-      "password": "dzsdfsdafhim",
-      "id": 10
-    },
-    {
-      "name": "fadsvxcv",
-      "surname": "dsafcvz",
-      "email": "ibrahim@mail.com",
-      "password": "ibrahim",
-      "id": 11
-    },
-    {
-      "name": "cvz",
-      "surname": "fadf",
-      "email": "ibrahim@mail.com",
-      "password": "ibrahim",
-      "id": 12
-    },
-    {
-      "name": "dsfavcxvsdfuh",
-      "surname": "udfiuasfu",
-      "email": "oudfiuaysdfiuy@fadsfaiuyf",
-      "password": "duisfyaisudfyuiaydfs",
-      "id": 13
-    },
-    {
-      "name": "sdafkjlkj",
-      "surname": "lkfsdnaflkajsdflkja",
-      "email": "dsfalkfdlsajm@mail.com",
-      "password": "ibrahim",
-      "id": 14
-    },
-    {
-      "name": "fdsalkjsdflkj",
-      "surname": "lkfdsjaflkjasdflkj",
-      "email": "lkdsjfalkjfalksjf@fsdajnxcmv",
-      "password": "sdafkljsdfkl",
-      "id": 15
-    },
-    {
-      "name": "zxcvnm,m",
-      "surname": "mcxvn,zxmcv",
-      "email": "fadsjfj@famsdf",
-      "password": "djsafkasdf",
-      "id": 16
     }
   ]
 }

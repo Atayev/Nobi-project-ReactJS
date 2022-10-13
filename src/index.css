@@ -27,6 +27,9 @@ body {
 .bg-btn {
   background-color: var(--main);
 }
+.hoverBg {
+  background-color: #00BBA4;
+}
 .headerCard {
   background: #f2f2f2;
   border-radius: 16px;

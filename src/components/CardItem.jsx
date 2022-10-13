@@ -3,11 +3,12 @@ import { AiOutlineCalendar, AiOutlineClockCircle } from 'react-icons/ai'
 import { FaRegMoneyBillAlt } from 'react-icons/fa'
 
 
-function CardItem({id,video,description,name,profile,date,hours,price}) {
+function CardItem({id,video,description,name,profile,date,hours,price,category}) {
 
   return (
     <div className=" md:w-1/4 bg-white rounded-lg border border-gray-200 shadow-md mx-5 my-3">
-        <iframe src={video} id={id} title='youtubevidoe'  className='w-full h-64 rounded-lg'/>
+          {/* <iframe src={video} id={id} title='youtubevidoe'  className='w-full h-64 rounded-lg'/> */}
+          <img src={video} id={id} title='youtubevidoe'  className='w-full h-64 rounded-lg'/>
     <div className="p-3">
               <h5 className="mb-2 text-lg font-bold text-gray-900 ">{ description }</h5>
               <div className='flex my-3'>
